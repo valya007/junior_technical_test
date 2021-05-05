@@ -1,0 +1,9 @@
+Create a HTTP web application in python
+The application should accept a request containing a sentence (in english)
+The application should respond with the nouns contained within the sentence
+
+The web application does not require a user interface - a REST API or similar is a valid submission.
+You can use any 3rd party python packages to complete this task.
+
+Please include a readme with your code with instructions to run it locally.
+Please host your code in a public github repo.
